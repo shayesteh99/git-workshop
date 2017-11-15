@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+	int a;
 printf("shayesteh");
-printf("hey");}
+printf("hey");
+scanf("%d", &a);}
 

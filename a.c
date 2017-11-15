@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int main() {
-printf("shayesteh");}
+printf("shayesteh");
+printf("hey");}
 
